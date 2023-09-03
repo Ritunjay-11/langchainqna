@@ -11,11 +11,11 @@ Elegant reports with five columns are slowly turning into 20-column jungles.
 Sounds familiar? Numocity is a player in such a field.
 
 Numocity makes SaaS products for Electric Mobility providers.
-It's a rapidly evolving field where clients are trying to find their business, in their own individual journey.
+Requirements evolve constantly, with each client in their own journey to find their business.
 
 In the quest for a single product code-base, Numocity needs to prevent the requirements from turning into a multi-header monster.
 
-This project aims to provide early warnings on requirements that tend towards inconsistency.
+This project aims to offer warnings, when product-management authors requirements that may bring inconsistency.
 
 ## The tool
 
