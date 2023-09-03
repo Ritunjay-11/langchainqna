@@ -1,5 +1,7 @@
-on: [push, workflow_dispatch]
-
+on:
+  workflow_dispatch:
+  push:
+    
 jobs:
   linting-style:
     runs-on: ubuntu-latest
