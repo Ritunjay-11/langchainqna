@@ -6,7 +6,7 @@ jobs:
     name: Lint markdown with style
     steps:
       - uses: actions/checkout@v3
-      - uses: RaPaLearning/write4u@v00
+      - uses: RaPaLearning/write4u@v01
         with:
           vale-options: 'nothing yet'
       - run: echo "Done!"
