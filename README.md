@@ -1,4 +1,6 @@
-# Discovering Inconsistencies: A deep dive with OpenAI models
+# Discovering inconsistencies: A deep dive with OpenAI models
+
+## The tool
 
 This is a langchain app that allows you to chat with your PDF. It is built using streamlit.
 

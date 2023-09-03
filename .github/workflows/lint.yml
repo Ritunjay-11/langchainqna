@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: RaPaLearning/write4u@main
         with:
-          vale-options: 'nothing yet'
+          known-words: .spelling
       - run: echo "Done!"
         shell: bash
