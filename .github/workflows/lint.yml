@@ -1,9 +1,9 @@
 on: [push]
 
 jobs:
-  hello_world_job:
+  linting-style:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: Lint markdown with style
     steps:
       - uses: actions/checkout@v3
       - uses: RaPaLearning/write4u@v00
