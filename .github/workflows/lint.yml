@@ -1,7 +1,9 @@
+name: Lint with style
+
 on:
   workflow_dispatch:
   push:
-    
+
 jobs:
   linting-style:
     runs-on: ubuntu-latest
