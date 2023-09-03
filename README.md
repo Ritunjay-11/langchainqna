@@ -5,7 +5,7 @@ They expect your partnership to achieve their goals. Requirements are coming in 
 
 ## The tool
 
-This is a langchain app that allows you to chat with your PDF. It is built using streamlit.
+This is a langchain app that lets you chat with your PDF. It uses streamlit.
 
 Steps to run:
 
