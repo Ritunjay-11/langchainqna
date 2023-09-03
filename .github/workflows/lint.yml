@@ -1,4 +1,4 @@
-on: [push]
+on: [push, workflow_dispatch]
 
 jobs:
   linting-style:
@@ -6,7 +6,7 @@ jobs:
     name: Lint markdown with style
     steps:
       - uses: actions/checkout@v3
-      - uses: RaPaLearning/write4u@v01
+      - uses: RaPaLearning/write4u@main
         with:
           vale-options: 'nothing yet'
       - run: echo "Done!"
