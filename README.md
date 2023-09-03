@@ -6,7 +6,7 @@ Requirements and change-requests are coming in thick and fast.
 
 With every adaptation, you wonder if it could contradict something you've already done.
 With growth in clientele, there is no single person who understands all workflows.
-Elegant reports with five columns are slowly turning into 20-column jungles. 
+Elegant reports with five columns are slowly turning into 20-column jungles.
 
 Sounds familiar? Numocity is a player in such a field.
 
