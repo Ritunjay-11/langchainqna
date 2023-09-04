@@ -1,0 +1,17 @@
+name: Lint with style
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  linting-style:
+    runs-on: ubuntu-latest
+    name: Lint markdown with style
+    steps:
+      - uses: actions/checkout@v3
+      - uses: RaPaLearning/write4u@main
+        with:
+          known-words: .spelling
+      - run: echo "Done!"
+        shell: bash
