@@ -23,13 +23,13 @@ Here's the data-flow automation.
 ```mermaid
   graph LR;
     docs-->pdf;
-    pdf-->LangChain;
-    LangChain-->requirements;
+    pdf-->langchain;
+    langchain-->requirements;
     requirements-->OpenAI-model;
     OpenAI-model-->Contradictions;
 ```
 
-TODO: Explain the responsibilities of LangChain and OpenAI-model
+TODO: Explain the responsibilities of langchain and OpenAI-model
 
 ## Validation
 
@@ -42,7 +42,7 @@ TODO: List inputs of varying subtlety, with expected outputs in a table
 
 ## Usage
 
-This is a LangChain app that lets you chat with your PDF. It uses streamlit to present the conversation.
+This is a langchain app that lets you chat with your PDF. It uses streamlit to present the conversation.
 
 ## Running
 
