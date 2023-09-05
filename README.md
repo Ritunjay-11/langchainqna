@@ -7,7 +7,7 @@ Requirements and change-requests are coming in thick and fast.
 With every adaptation, you wonder if it could contradict something you've already done.
 With growth in clientele, there is no single person who understands all workflows.
 
-Sounds familiar? 
+Sounds familiar?
 
 Numocity is a player in this field, making SaaS products for Electric Mobility providers.
 Requirements evolve constantly, with each client in their own journey to find their business.
